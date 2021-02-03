@@ -1,0 +1,2 @@
+C:\Users\kasia\OneDrive\Pulpit\UG\Rok 2\Semestr 4\Inżynieria oprogramowania\Quizzer\projekt\QuizGameProject\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\kasia\OneDrive\Pulpit\UG\Rok 2\Semestr 4\Inżynieria oprogramowania\Quizzer\projekt\QuizGameProject\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
